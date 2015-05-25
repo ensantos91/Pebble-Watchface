@@ -1,0 +1,52 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "ensantos91@gmail.com",
+    "longName": "Pikachu",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Pikachu_shock_1.png",
+                "name": "PIKACHU_SHOCK",
+                "type": "png"
+            },
+            {
+                "file": "images/Pikachu_low_bat_v2.png",
+                "name": "PIKACHU_LOW_BAT",
+                "type": "png"
+            },
+            {
+                "file": "images/Bluetooth_Disconnect.png",
+                "name": "NOTIFICATION",
+                "type": "png"
+            },
+            {
+                "file": "images/Pikachu_sleep.png",
+                "name": "PIKACHU_SLEEP",
+                "type": "png"
+            },
+            {
+                "file": "images/Pikachu_menu.png",
+                "menuIcon": true,
+                "name": "PIKACHU_MENU",
+                "type": "png"
+            },
+            {
+                "file": "images/Pikachu_1.png",
+                "name": "PIKACHU_1",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Pikachu",
+    "uuid": "32ff597d-8ad3-4cf1-93a5-94f5efa3bc2d",
+    "versionCode": 1,
+    "versionLabel": "3.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
